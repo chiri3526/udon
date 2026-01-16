@@ -1,8 +1,5 @@
 {
   "name": "Udon Tracker - Soka High School Cafeteria",
   "description": "Visualizes 'Udon' orders from Soka High School Cafeteria Gmail notifications. Automatically parses email content using Gemini to track consumption patterns and trends.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "requestFramePermissions": []
 }
